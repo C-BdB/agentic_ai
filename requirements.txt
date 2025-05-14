@@ -1,0 +1,6 @@
+gradio
+requests
+smolagents
+pytz
+pandas
+wikipedia-api
